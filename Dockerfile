@@ -7,3 +7,5 @@ RUN wget http://www.freetds.org/files/stable/freetds-1.1.24.tar.gz \
     && ./configure --prefix=/usr/local --with-tdsver=7.3 \
     && make \
     && make install
+
+RUN apt-get install ssh-client
