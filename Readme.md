@@ -1,1 +1,1 @@
-Run: `docker build -t ruby-2.7.0-tiny-tds .`
+Run: `docker build -t bmayhew/ruby-2.7.0-tiny-tds .`
