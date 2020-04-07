@@ -1,1 +1,1 @@
-Run: `docker build -t bmayhew/ruby-2.7.0-tiny-tds .`
+to build locally: `docker build -t bmayhew/ruby-2.7.0-tiny-tds .`
