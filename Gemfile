@@ -1,11 +1,9 @@
 source 'https://rubygems.org' do
   gem 'activesupport'
-  # gem 'ca_datafactory', branch: 'master', git: 'https://ca_regression:8n-imvzFS4zSd6-eRhvW@gitlab.com/daxko/club-automation/ca-test/ca_datafactory.git'
   gem 'certified'
 	gem 'colorize'
   gem 'configatron'
   gem 'faker'
-  # gem 'glados', branch: 'master', git: 'https://ca_regression:e78pB46uQTze5937aLWj@gitlab.com/daxko/test/glados_gem.git'
   gem 'headless'
   gem 'httparty'
   gem 'json'
